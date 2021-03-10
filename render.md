@@ -7,3 +7,5 @@ co-author
 
 unsigned commit
 another unsigned commit
+
+signed commit
