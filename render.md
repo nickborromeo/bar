@@ -9,3 +9,4 @@ unsigned commit
 another unsigned commit
 
 signed commit
+another signed commit
