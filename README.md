@@ -13,3 +13,6 @@ Adding another line for co-authored commits
 Another line for good measure
 
 Line added via the UI but commit message will have co-authors - modified - v3
+
+*.md  hello
+*.rb  goodbye
